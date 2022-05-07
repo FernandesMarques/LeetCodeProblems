@@ -10,3 +10,4 @@ class solution:
 a = solution([3, 1, 2, 4])
 a.sortArrayByParity()
 print(a.numeros)
+#teste
